@@ -23,7 +23,7 @@ public class Pistola {
         if (bala == girarTambor) {
             JOptionPane.showMessageDialog(null, "No me manches el sillón porfavor");
         } else {
-            JOptionPane.showMessageDialog(null, "Te has librado de esta amigo mío");
+            JOptionPane.showMessageDialog(null, "Te has librado de esta amig@ mío");
         }
     }
 }
