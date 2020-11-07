@@ -3,7 +3,9 @@ package Programas.Propios;
 import javax.swing.*;
 
 /**
- * Clase para ver los jugadores que vam a participar
+ * @author angel
+ * Clase para ver los jugadores que vam a participar el juego
+ * @version 0.0.1
  */
 public class RuletaRusa {
 

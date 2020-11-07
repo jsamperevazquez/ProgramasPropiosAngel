@@ -5,6 +5,7 @@ import javax.swing.*;
 /**
  * Creado por @autor: angel
  * El  06 nov., 2020
+ * @version 0.0.1
  **/
 public class Pistola {
     private int bala;
